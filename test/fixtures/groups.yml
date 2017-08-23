@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  family: MyString
+  friends: MyString
+  ignore: MyString
+
+two:
+  family: MyString
+  friends: MyString
+  ignore: MyString
